@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ATM Empresa Consultoria</string>
+    <string name="empresa_detalhes">Sobre a Empresa</string>
+    <string name="servico_detalhe">Serviços</string>
+    <string name="texto_consultoria">Consultoria</string>
+    <string name="texto_processos">Processos</string>
+    <string name="texto_acompanhamento_projetos">Acompanhamento de projtos</string>
+    <string name="cliente_detalhe">Nossos Clientes</string>
+    <string name="texto_empresa_sistema">Empresa de Sistemas de Informação</string>
+    <string name="texto_empresa_auditoria">Empresa de Auditoria</string>
+    <string name="contato_detalhe">Contato</string>
+    <string name="endereco_email">Email: consultoria@atm.com.br</string>
+    <string name="atm_telefone">Telefone: (11) 59287793</string>
+    <string name="atm_celular">Celular: (11) 993802890</string>
+</resources>
